@@ -124,6 +124,24 @@
 </p>
 
 ## 💰 YOU CAN HELP ME BY DONATING
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mriadhussainraj)
+<p align="center">
+  <a href="https://buymeacoffee.com/mriadhussainraj">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/mriadhussainraj">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://paypal.me/mriadhussainraj">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/If%20you%20like%20my%20work-Star%20my%20Repos%20⭐-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/💬%20Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧%20Mail%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻%20Follow%20Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>❤️ Thanks for visiting my profile! Happy Coding! 🚀</i>
+</p>
 
 <!-- Proudly updated with working widgets -->
