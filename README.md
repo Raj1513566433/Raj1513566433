@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello I am M Rayad Hussain Raj
 </h1>
 
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hello+I+am+Raj;Flutter+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
@@ -25,7 +24,7 @@
 
 
 
-## SOCIAL MEDIA
+# SOCIAL MEDIA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rayad-hussain-raj-230361253/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/m.riad.hussain.raj.2025)
@@ -39,7 +38,7 @@
 
 
 
-# 📊 GITHUB STATS
+# GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" height="195px" />
@@ -48,14 +47,14 @@
 
 
 
-# 🔥 CONTRIBUTION STREAK
+# CONTRIBUTION STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mriadhussainraj&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 
-# 🏆 GITHUB TROPHIES
+# GITHUB TROPHIES
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-1364-0891b2?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,7 +81,7 @@
 </p>
 
 
-# 📈 ACTIVITY GRAPH
+# ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mriadhussainraj&theme=tokyo-night&hide_border=true&area=true" width="95%" />
@@ -90,7 +89,7 @@
 
 
 
-# 📋 PROFILE SUMMARY CARDS
+# PROFILE SUMMARY CARDS
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mriadhussainraj&theme=tokyonight" width="95%" />
@@ -102,7 +101,7 @@
 </p>
 
 
-# 👁️ PROFILE VIEWS & FOLLOWERS
+# PROFILE VIEWS & FOLLOWERS
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mriadhussainraj&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS" />
@@ -123,7 +122,7 @@
   <img src="https://img.shields.io/badge/Ask%20Me%20About-App%20Architecture-238636?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-## 💰 YOU CAN HELP ME BY DONATING
+# YOU CAN HELP ME BY DONATING
 <p align="center">
   <a href="https://buymeacoffee.com/mriadhussainraj">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
