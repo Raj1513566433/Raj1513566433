@@ -42,8 +42,8 @@
 # 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mriadhussainraj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mriadhussainraj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" height="195px" />
 </p>
 
 
