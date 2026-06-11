@@ -58,8 +58,8 @@
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&margin-w=4&column=4" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&margin-w=4&column=4&row=2" width="49%" />
 </p>
 
 ---
