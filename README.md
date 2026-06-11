@@ -41,8 +41,8 @@
 # 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mriadhussainraj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mriadhussainraj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 # 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mriadhussainraj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Mriadhussainraj&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -58,7 +58,8 @@
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" width="49%" />
 </p>
 
 ---
@@ -71,7 +72,7 @@
 
 ---
 
-# 📊 PROFILE SUMMARY CARDS
+# 📋 PROFILE SUMMARY CARDS
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mriadhussainraj&theme=tokyonight" width="95%" />
@@ -87,8 +88,8 @@
 # 👁️ PROFILE VIEWS & FOLLOWERS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mriadhussainraj&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  <img src="https://img.shields.io/github/followers/Mriadhussainraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=Mriadhussainraj&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Mriadhussainraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS" />
 </p>
 
 ---
