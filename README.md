@@ -1,6 +1,8 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello I am M Rayad Hussain Raj
 </h1>
+
+
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hello+I+am+Raj;Flutter+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
@@ -58,10 +60,28 @@
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&margin-w=4&column=4" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mriadhussainraj&theme=tokyonight&no-frame=true&margin-w=4&column=4&row=2" width="49%" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1364-0891b2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public%20Repos-22-238636?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-4-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars%20Earned-8-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-4%2B%20Years-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Advanced-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-4%2B%20Years-E91E63?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF4081?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-█████████░%2090%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-████████░░%2080%25-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-████████░░%2080%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-██████░░░░%2060%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-███████░░░%2070%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-████████░░%2080%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-███████░░░%2070%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-███████░░░%2070%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
 ---
 
 # 📈 ACTIVITY GRAPH
